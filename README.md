@@ -1,4 +1,5 @@
-# Python-Data-Science-and-Machine-Learning
+# Python Data Science and Machine Learning
+
 Learning how to program with Python, how to create amazing data visualizations, and how to use Machine Learning with Python! Here a just a few of the topics:  
 1. Programming with Python; 
 2. NumPy with Python; 
